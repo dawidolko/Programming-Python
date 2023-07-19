@@ -2,7 +2,7 @@
 redirect_to: py.dawidolko.pl
 ---
 
-# Język HTML
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=J%C4%99zyk+Python)](https://git.io/typing-svg)
 
 <br>![PYTHON](python.png)
 

@@ -1,27 +1,26 @@
-# Projekty w języku Python
+# Python projects
 
-Witaj w repozytorium, które zawiera zbiór projektów programistycznych zrealizowanych w języku Python. Repozytorium to zostało stworzone, aby podzielić się różnorodnymi projektami, które mogą posłużyć jako inspiracja, nauka oraz praktyczne zastosowanie języka Python.
+Welcome to the repository that contains a collection of programming projects implemented in Python. This repository was created to share a variety of projects that can serve as inspiration, learning, and practical applications of the Python language.
 
-## O repozytorium
+## About the repository
 
-Repozytorium zawiera różnorodne projekty programistyczne zrealizowane w języku Python. Znajdziesz tutaj zarówno mniejsze projekty, które służą jako dobre przykłady i ćwiczenia, jak również większe projekty, które przedstawiają bardziej zaawansowane zastosowania języka Python.
+The repository contains various programming projects implemented in Python. Here you'll find smaller projects that serve as good examples and exercises, as well as larger projects that demonstrate more advanced uses of Python.
 
-Projekty te obejmują różne dziedziny, takie jak:
+These projects cover various areas such as:
 
-- Analiza danych: Projekty związane z eksploracją danych, wizualizacją danych, analizą statystyczną i predykcyjną.
-- Aplikacje webowe: Tworzenie aplikacji internetowych, zarządzanie danymi, interakcje z bazami danych, tworzenie interfejsów użytkownika.
-- Automatyzacja: Projekty automatyzujące powtarzalne zadania, takie jak automatyczne generowanie raportów, skrypty do przetwarzania danych, harmonogramy zadań.
-- Gry komputerowe: Tworzenie gier w języku Python, implementacja mechaniki gry, grafika, dźwięk, interakcje z użytkownikiem.
-- Projektowanie algorytmów: Implementacja różnych algorytmów i struktur danych w języku Python, takich jak sortowanie, wyszukiwanie, drzewa, grafy.
-- Robotyka i Internet rzeczy: Projekty związane z programowaniem robotów, urządzeń IoT (Internetu rzeczy), sterowanie urządzeniami i zbieranie danych.
+- Data analysis: Projects related to data mining, data visualization, statistical and predictive analysis.
+- Web applications: Creating web applications, managing data, interacting with databases, creating user interfaces.
+- Automation: Projects that automate repetitive tasks, such as automatic report generation, data processing scripts, task scheduling.
+- Computer games: Creating games in Python, implementing game mechanics, graphics, sound, user interaction.
+- Algorithm Design: Implementation of various algorithms and data structures in Python such as sorting, searching, trees, graphs.
+- Robotics and Internet of Things: Projects related to programming robots, IoT devices (Internet of Things), device control and data collection.
 
-## Jak korzystać z repozytorium
+## How to use the repository
 
-Możesz swobodnie przeglądać dostępne projekty i wybierać te, które Cię interesują. Każdy projekt zawiera opis, instrukcje instalacji i uruchomienia, kod źródłowy oraz niekiedy przykładowe dane lub pliki wynikowe.
+You can freely browse through available projects and choose those that interest you. Each project contains a description, installation and startup instructions, source code and sometimes sample data or result files.
 
-Jeśli jesteś zainteresowany konkretnym projektem, możesz sklonować repozytorium, uruchomić projekt lokalnie na swoim komputerze i eksperymentować z kodem. Możesz również dokonywać modyfikacji, dostosowywać projekty do swoich potrzeb lub tworzyć własne rozszerzenia.
+If you are interested in a specific project, you can clone the repository, run the project locally on your computer and experiment with the code. You can also make modifications, adapt the designs to your needs or create your own extensions.
 
-Zachęcam do udziału w rozwoju repozytorium poprzez dodawanie własnych projektów, zgłaszanie uwag i sugestii, dzielenie się swoimi doświadczeniami oraz współpracę z innymi programistami. Naszym celem jest tworzenie bogatego zbioru projektów i wzajemne dzielenie się wiedzą oraz inspiracją.
+I encourage you to participate in the development of the repository by adding your own projects, submitting comments and suggestions, sharing your experiences and collaborating with other programmers. Our goal is to create a rich collection of projects and share knowledge and inspiration.
 
-Zapraszam do korzystania z dostępnych projektów, eksplorowania ich kodu, uczenia się nowych technik i narzędzi, a także do dzielenia się swoimi projektami i tworzenia społeczności programistów Pythona.
-
+I invite you to use the available projects, explore their code, learn new techniques and tools, and share your projects and create a community of Python developers.

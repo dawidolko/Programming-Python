@@ -1,24 +1,23 @@
-# Kursy Python
+# Python courses
 
-Witaj w repozytorium, które gromadzi zasoby i kursy związane z językiem programowania Python. Repozytorium to zostało stworzone z myślą o wszystkich, którzy chcą zgłębić swoją wiedzę na temat języka Python lub podnieść swoje umiejętności programistyczne w tej dziedzinie.
+Welcome to the repository that collects resources and courses related to the Python programming language. This repository was created for everyone who wants to deepen their knowledge of the Python language or improve their programming skills in this field.
 
-## O repozytorium
+## About the repository
 
-Repozytorium zawiera różnorodne kursy, tutoriale i materiały edukacyjne dotyczące języka Python. Znajdziesz tutaj zarówno materiały dla początkujących, jak i dla bardziej zaawansowanych programistów, którzy chcą poszerzyć swoje umiejętności w Python.
+The repository contains a variety of Python courses, tutorials, and educational materials. Here you will find materials both for beginners and for more advanced programmers who want to expand their Python skills.
 
-Kursy są pogrupowane tematycznie, obejmując takie obszary jak:
+The courses are grouped thematically, covering areas such as:
 
-- Podstawy Pythona: Zrozumienie składni, typów danych, zmiennych, operatorów i instrukcji sterujących w języku Python.
-- Programowanie obiektowe: Poznanie podstawowych koncepcji programowania obiektowego w Pythonie, takich jak klasy, obiekty, dziedziczenie, polimorfizm.
-- Biblioteki Pythona: Wykorzystywanie różnych popularnych bibliotek Pythona, takich jak NumPy, pandas, matplotlib, Django, Flask.
-- Analiza danych i uczenie maszynowe: Praca z danymi, analiza danych, wizualizacja, tworzenie modeli uczenia maszynowego.
-- Tworzenie aplikacji webowych: Tworzenie responsywnych stron internetowych, interaktywnych aplikacji webowych za pomocą frameworków takich jak Django czy Flask.
+- Python Fundamentals: Understand Python syntax, data types, variables, operators, and control statements.
+- Object-oriented programming: Learn the basic concepts of object-oriented programming in Python, such as classes, objects, inheritance, polymorphism.
+- Python Libraries: Use various popular Python libraries such as NumPy, pandas, matplotlib, Django, Flask.
+- Data analysis and machine learning: Working with data, data analysis, visualization, creating machine learning models.
+- Web application development: Creating responsive websites, interactive web applications using frameworks such as Django or Flask.
 
-## Jak korzystać z repozytorium
+## How to use the repository
 
-Możesz swobodnie przeglądać dostępne kursy i materiały edukacyjne. Każdy kurs zawiera opis, materiały źródłowe, przykłady kodu oraz ćwiczenia praktyczne, które pomogą Ci w nauce i zrozumieniu języka Python.
+You can freely browse available courses and educational materials. Each course includes a description, references, code examples, and hands-on exercises to help you learn and understand Python.
 
-Zachęcam do udziału w tworzeniu repozytorium poprzez dodawanie swoich własnych kursów, tutoriali czy materiałów, dzielenie się pomysłami oraz zgłaszanie uwag i sugestii. Naszym celem jest stworzenie bogatej bazy wiedzy i zasobów dla wszystkich zainteresowanych językiem Python.
+I encourage you to participate in creating the repository by adding your own courses, tutorials or materials, sharing your ideas and submitting comments and suggestions. Our goal is to create a rich base of knowledge and resources for everyone interested in Python.
 
-Zapraszam do zapoznania się z dostępnymi kursami i dołączenia do społeczności programistów Pythona. Razem możemy poszerzyć swoje umiejętności i wspólnie rozwijać się w tym popularnym języku programowania.
-
+I invite you to check out the available courses and join the Python programming community. Together we can expand our skills and develop together in this popular programming language.

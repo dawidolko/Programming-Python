@@ -482,20 +482,6 @@ Pierwszą rzeczą, którą zauważysz, jest nierozwiązane odniesienie do strony
 
 PyCharm sugeruje szybką naprawę: jeśli klikniesz żarówkę lub naciśniesz Alt + Enter, odpowiedni plik szablonu zostanie utworzony w folderze szablonów.
 
-Plik _index.html_ jest już pusty. Dodaj do niego następujący kod:
-```Python
-{% load staticfiles %}
-<link rel="stylesheet" type="text/css" href="{% static 'polls/style.css' %}"/>
-{% if latest_question_list %}
-    <ul>
-        {% for question in latest_question_list %}
-            <li><a href="{% url 'detail' question.id %}">{{ question.question_text }}</a></li>
-        {% endfor %}
-    </ul>
-{% else %}
-    <p>No polls are available.</p>
-{% endif %}
-```
 W tagach HTML dostępne jest także uzupełnianie kodu.
 
 Zwróć uwagę na ikony ![image](https://user-images.githubusercontent.com/12736759/40282031-0d24b2c6-5c69-11e8-95e3-33559cedb162.png) i ![image](https://user-images.githubusercontent.com/12736759/40282037-2a184cd0-5c69-11e8-88c4-c3bf2ec8276f.png), które pojawiają się na lewym marginesie odpowiednio plików _views.py_ i _index.html_. Ikony te umożliwiają natychmiastowe przejście między metodą widoku a jej szablonem.

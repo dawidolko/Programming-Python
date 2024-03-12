@@ -27,7 +27,8 @@ redirect_to: py.dawidolko.pl
 - [Pliki w postaci kodu](https://github.com/dawidolko/Programming-Python/blob/main/LAB06/main.py)<br>
 
 ### Kolokwia: 
-- ...
+- ### [Kolokwium](KOLOKWIUM) - Język skryptowy kolokwium 
+- [Pliki w postaci kodu](https://github.com/dawidolko/Programming-Python/blob/main/KOLOKWIUM)<br>
 
 ### Projekty:
 **[Co to projekty?](projects/README.md) - Definicja i zagadnienia**

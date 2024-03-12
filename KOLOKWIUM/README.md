@@ -1,1 +1,2 @@
-
+# Kolokwium - Język Skryptowy 
+## PYTHON

@@ -41,8 +41,3 @@ redirect_to: py.dawidolko.pl
 - **[Kurs 1](https://github.com/dawidolko/Programming-Python/tree/main/Courses/Course1)**
   - [Opis kursu](Courses/Course1/README.md)
 
-
-<br>
-  
-- **[Kurs 3](https://github.com/dawidolko/Programming-Python/tree/main/Courses/Course3)**
-  - [Opis kursu](Courses/Course3/README.md)

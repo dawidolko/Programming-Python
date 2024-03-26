@@ -12,7 +12,7 @@ class Student(Osoba):
     def __str__(self):
         return "Czesc! Jestem " + self.name + " " + self.surname + " a moj numer albumu to " + str(self.albumNumber) + "."
 
-s1 = Student("Michael", "Komsa", 122344)
+s1 = Student("Dawid", "Olko", 122344)
 s2 = Student("Mokebe", "Nzinga", 123432)
 s3 = Student("Agatha", "Cristie", 133321)
 
